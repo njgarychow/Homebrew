@@ -1,1 +1,1 @@
-cp rc /usr/local/etc/cow/rc
+cp ./rc /usr/local/etc/cow/rc
