@@ -1,2 +1,0 @@
-mkdir /usr/local/etc/cow
-cp ./rc /usr/local/etc/cow/rc
